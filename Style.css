@@ -1,0 +1,294 @@
+body {
+    background-image: url('COMBINE.webp');
+    margin: 0;
+    padding: 0;
+}
+.music {
+    text-align: center;
+    padding: 15px 100px
+}
+audio {
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
+.play {
+    font-family: 'Times New Roman', Times, ;
+    font-size: 15px;
+    padding: 0 100px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 2px 2px 4px black;
+}
+.header {
+    /* background image*/
+    background-image: url('debutant.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 10px 10px 5px black;
+    
+    /*object-fit: cover;*/
+    height: 660px;
+    width: 500;
+}
+.name {
+    /*name font style*/
+    font-family: 'Brush Script MT', cursive;
+    font-size: 170px; 
+    color: maroon;
+    text-shadow: 2px 2px 4px whitesmoke;
+    Padding: 50px 200px;
+    margin: -10px 50px;
+}
+.age {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; 
+    Padding: 0 400px;
+    margin: -80px 10px;
+    color: black;
+    text-shadow: 2px 2px 4px whitesmoke;  
+   
+} 
+.join-us {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.join-us h1 /*U R IVITED*/ {
+    color: white;
+    text-shadow: 2px 2px 4px black; 
+}
+.join-us h2 /*celebrate*/ {
+    text-shadow: 2px 2px 4px ma; 
+}
+.date-bg {
+    /* background image*/
+    background-image: url('hotel.jpg');
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+    background-size: right;
+    background-position: right;
+    
+    /* box background*/
+    Padding: 0;
+    border-radius: 0;
+    box-shadow: 10px 10px 5px black;
+    margin: 0;
+
+    /*text style*/
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: bold;
+    Padding: 10px 200px;
+}
+.details {
+   Padding: 10px 135px;
+   font-size: 30px;
+   font-style: bold;
+}
+.date-bg hr {
+    color: black;
+    border-color: black;
+    width: 190px;
+    margin: 0 100px;
+}
+.save-date {
+    color:  maroon;
+    Padding: 30px 120px;
+    font-size: 20px;
+    font-style: bold;
+}
+.date {
+    Padding: 0 120px;
+    font-size: 16px;
+    font-style: bold;
+}
+.day {
+    Padding: 8px 131px;
+    font-size: 16px;
+    font-style: bold;
+}
+.venue {
+    color:  maroon;
+    Padding: 10px 160px;
+    font-size: 20px;
+    font-style: bold;
+}
+.hotel {
+    Padding: 8px 80px;
+    font-size: 16px;
+    font-style: bold;
+}
+.location {
+    Padding: 8px 70px;
+    font-size: 16px;
+    font-style: bold;
+}
+.dress-code {
+    background-image: url('mask.jpg');
+    Padding: 40px 20px;
+    box-shadow: 10px 10px 5px black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px maroon;
+}
+.code {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px; 
+    color: white;
+    text-shadow: 2px 2px 4px maroon;
+}
+.color-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid whitesmoke;
+    box-shadow: 0 2px 8px rgba(175, 41, 41, 0.1);
+}
+.attire-img {
+    width: 200px;
+    height: 260px;
+    border-radius: 0;
+    object-fit: cover;
+    border: 4px solid maroon;
+    box-shadow: 0 2px 8px rgba(175, 41, 41, 0.1);
+   
+}
+.note {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px maroon;
+    font-size: 20px;
+}
+.parents-name {
+    font-family: 'Brush Script MT', cursive;
+    color: black;
+    text-shadow: 2px 2px 4px maroon;
+    font-size: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+} 
+.parents-bg {
+    background-image: url('kim.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 5px black;
+    
+    /*object-fit: cover;*/
+    height: 660px;
+    width: 500;
+}
+.joel {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px; 
+    color: maroon;
+    text-shadow: 2px 2px 4px whitesmoke;
+    Padding: 150px 170px;
+}
+.father {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    Padding: 0 170px;
+    margin: -150px 70px;
+    color: black;
+    text-shadow: 2px 2px 4px whitesmoke;  
+}
+.maria {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px; 
+    color: maroon;
+    text-shadow: 2px 2px 4px whitesmoke;
+    Padding: 300px 210px;
+    margin: 0 300px;
+}
+.mother {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    color: black;
+    text-shadow: 2px 2px 4px whitesmoke;
+    Padding: -20px 600px;
+    margin: -300px 600px;
+}
+.specials {
+    font-family: 'Brush Script MT', cursive;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    font-size: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+} 
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.dropdown-listname {
+  display: none;
+  background-color: white;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-listname div {
+  color: black;
+  padding: 8px 0;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-listname div:hover {
+  background-color: maroon;
+}
+
+.dropdown:hover .dropdown-listname {
+  display: block;
+  align-items: center;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: rgb(231, 207, 207);
+}
+.dropbtn {
+    background-color: rgb(216, 160, 160);
+    color: black;
+    padding: 8px 150px;
+    font-size: 30px;
+    font-family: 'Brush Script MT', cursive;
+    text-shadow: 2px 2px 4px maroon;
+}
+
+.rsvp {
+    background-color: lightgrey;
+    Padding: 30px 20px;
+    box-shadow: 10px 10px 5px black;
+    text-align: center;
+}
+.we {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.hope {
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px; 
+    color: white;
+    text-shadow: 2px 2px 4px maroon;
+}
+.footer {
+    text-align: center;
+    font-size: 30;
+    color: black;
+    text-shadow: 2px 2px 4px black;
+}
